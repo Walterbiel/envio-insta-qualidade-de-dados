@@ -1,0 +1,10 @@
+id,cliente,email,data_pedido,data_entrega,status,valor
+1,Ana,ana@email.com,2026-01-05,2026-01-08,entregue,120.50
+2,Bruno,bruno@email,2026-01-06,2026-01-09,entregue,300.00
+3,,carla@email.com,2026-01-06,2026-01-10,entregue,89.90
+4,Diego,diego@email.com,2026-01-07,2026-01-05,entregue,45.00
+5,Elisa,elisa@email.com,2026-01-08,2026-01-12,extraviado,210.00
+6,Fábio,fabio@email.com,2026-01-08,2026-01-11,pendente,-15.00
+6,Gabi,gabi@email.com,2026-01-09,2026-01-12,entregue,99.00
+7,Hugo,hugo@email.com,2099-01-01,2099-01-03,pendente,60.00
+8,Iara,iara@email.com,2026-01-10,2026-01-13,entregue,75.00
